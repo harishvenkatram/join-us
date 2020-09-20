@@ -1,6 +1,6 @@
 # [join-us](#join-us)
 
-An introductory repo for people to join DSC PCCoE Community.
+An introductory repository for people to join DSC PCCoE Community.
 
 We have created this repository as a welcoming path for the contributors into our community. Once, you have created your first pull request according to the instructions given in the contribution guidelines, you will be sent an invitation to be a part of our community!
 
